@@ -55,10 +55,15 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
+<img width="1227" height="1600" alt="WhatsApp Image 2026-10-12 at 12 32 10" src="https://github.com/user-attachments/assets/88c2b346-3cd0-4af0-98b5-f750b7c83816" />
+<img width="1217" height="1600" alt="WhatsApp Image 2026-10-12 at 12 32 33" src="https://github.com/user-attachments/assets/8aa1013c-a1e5-47c5-af36-fa3d8be7194a" />
  
 
 
 b.  KCL:
+<img width="1136" height="1600" alt="WhatsApp Image 2026-10-12 at 12 31 04" src="https://github.com/user-attachments/assets/104a5b52-8918-43c3-a5b9-ac9f3a8cbad9" />
+<img width="1067" height="1600" alt="WhatsApp Image 2026-10-12 at 12 31 24" src="https://github.com/user-attachments/assets/f825b668-cd8b-49e3-9392-1e85e4da4da1" />
+
 
 
 
@@ -66,11 +71,21 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+| S.NO | RESISTANCE | VOLTAGE = CURRENT × RESISTANCE | PRACTICAL VALUE |
+|---|---|---|---|
+| 1 | R1 = 30 Ω | 0.556 × 30 | 16.67 V |
+| 2 | R2 = 50 Ω | 0.556 × 50 | 27.78 V |
+| 3 | R3 = 100 Ω | 0.556 × 100 | 55.56 V |
+| 4 | Total Voltage | V1 + V2 + V3 | 100 V | 
 
 
 b.  KCL:
-
+| S.NO | CURRENT | CALCULATION | PRACTICAL VALUE |
+|---|---|---|---|
+| 1 | Total Current (IT) | 100 / 63.33 | 1.579 A |
+| 2 | Current through R2 (I2) | 52.63 / 50 | 1.053 A |
+| 3 | Current through R3 (I3) | 52.63 / 100 | 0.526 A |
+| 4 | Sum of Branch Currents | I2 + I3 | 1.579 A |
 
 
 RESULT:
